@@ -19,11 +19,11 @@ chipsets = ["ESP32-S3"]
 # Configure the name of the binary file
 image.esp32-s3 = "merged_window_covering.bin"
 # Optional: A brief introduction to this app.
-description = "Matter Enable Window Covering from Hummingbird"
+description = "Matter Enabled Window Covering from Hummingbird"
 # Optional: Phone APP URLs if any for Playstores
 #android_app_url = ""
 #ios_app_url = ""
 # Optional: URL of the Markdown file for additional information about the app
-readme.text = "launchpad_readme.md"
+readme.text = "https://raw.githubusercontent.com/sayondeep/jenkins.github.io/main/launchpad_readme.md"
 # Optional: Supported console baudrate for app firmware (default value is 115200)
 #console_baudrate = <SUPPORTED_CONSOLE_BAUDRATE>
